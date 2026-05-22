@@ -1,0 +1,5 @@
+# ห้าม commit ไฟล์ที่อาจมีความลับ / API Key
+.env
+.env.*
+*.key
+secrets.*
