@@ -1,3 +1,15 @@
+<!-- BBN:HEADER:START -->
+<div align="center">
+
+<img src=".github/brand/banner.svg" width="100%" alt="Magic MCP Thai Guide — Beginner Thai guide to adding Magic MCP to Claude Code" />
+
+<a href="https://github.com/Boom-Vitt/magic-mcp-thai-guide/stargazers"><img src="https://img.shields.io/github/stars/Boom-Vitt/magic-mcp-thai-guide?style=flat-square&color=14b8a6&labelColor=0b1220" alt="stars" /></a>
+<a href="https://github.com/Boom-Vitt/magic-mcp-thai-guide/commits/main"><img src="https://img.shields.io/github/last-commit/Boom-Vitt/magic-mcp-thai-guide?style=flat-square&color=14b8a6&labelColor=0b1220" alt="last commit" /></a>
+<a href="https://github.com/Boom-Vitt"><img src="https://img.shields.io/badge/by-BoomBigNose-14b8a6?style=flat-square&labelColor=0b1220" alt="by BoomBigNose" /></a>
+
+</div>
+<!-- BBN:HEADER:END -->
+
 # 🪄 Magic MCP — คู่มือติดตั้งฉบับภาษาไทย
 
 คู่มือนี้จะสอนวิธีเพิ่ม **Magic MCP** เข้าไปใน **Claude Code** แบบทีละขั้นตอน
@@ -80,3 +92,15 @@ claude mcp list
 ---
 
 > 📌 หมายเหตุ: คู่มือนี้จัดทำเพื่อการศึกษา ภาษาไทยล้วน เข้าใจง่ายสำหรับมือใหม่
+
+<!-- BBN:FOOTER:START -->
+---
+
+<div align="center">
+
+**สร้างโดย [BoomBigNose](https://github.com/Boom-Vitt)** · [Kruoop.com](https://kruoop.com) แหล่งเรียน AI + คอมมูนิตี้ · [Seeneo.ai](https://seeneo.ai) · [YouTube 220K](https://www.youtube.com/@BoomBigNose)
+
+<sub>ถ้าโปรเจกต์นี้มีประโยชน์ กด ⭐ ให้กำลังใจกันได้เลย</sub>
+
+</div>
+<!-- BBN:FOOTER:END -->
